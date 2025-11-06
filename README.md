@@ -42,11 +42,11 @@ A simple and intuitive **Android dictionary app** built with Kotlin and SQLite. 
    ```bash
    git clone https://github.com/ar-sarkar-77/dictionary-app.git
 
-2.Open the project in Android Studio.
+2. Open the project in Android Studio.
 
-3.Place dictionary.db in the assets/databases/ folder.
+3. Place dictionary.db in the assets/databases/ folder.
 
-4.Build and run the app on an Android device or emulator.
+4. Build and run the app on an Android device or emulator.
 
 ## License
 
