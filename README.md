@@ -48,6 +48,13 @@ A simple and intuitive **Android dictionary app** built with Kotlin and SQLite. 
 
 4. Build and run the app on an Android device or emulator.
 
-## License
+---
+## 👨‍💻 Author
+---
 
-This project is open-source and free to use under the MIT License.
+## 👤 Mohammad Anondo Sarkar  
+💼 Android App Developer | UI UX Designer | 💻 Computer Science Student  
+📧 Email: anondosarkarar77@gmail.com  
+🌍 From: Lalmonirhat, Bangladesh  
+🌐 Website: https://arsarkar77.blogspot.com  
+💬 Built with ❤️, powered by Kotlin, and fueled by late-night coding ☕💡 
